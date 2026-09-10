@@ -6,7 +6,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw46744af7/Images/products/The%20Ordinary/rdn-squalane-cleanser-150ml.png?sh=800&sm=fit&sw=800",
     "description": "Gentle everyday cleanser that removes makeup, dirt and impurities while supporting hydration.",
     "price": 10.5,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_prep",
       "type_cleanser",
@@ -64,7 +64,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw8b57fa2b/Images/products/The%20Ordinary/ord-glyc-acid-7pct-100ml-Aug-UPC.png?sh=800&sm=fit&sw=800",
     "description": "Exfoliating toner designed to smooth texture, even tone and improve radiance.",
     "price": 9.0,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_prep",
       "type_toner",
@@ -94,7 +94,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw8b57fa2b/Images/products/The%20Ordinary/ord-glyc-acid-7pct-100ml-Aug-UPC.png?sh=800&sm=fit&sw=800",
     "description": "Exfoliating toner designed to smooth texture, even tone and improve radiance.",
     "price": 13.5,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_prep",
       "type_toner",
@@ -124,7 +124,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwce8a7cdf/Images/products/The%20Ordinary/rdn-niacinamide-10pct-zinc-1pct-30ml.png?sh=800&sm=fit&sw=800",
     "description": "Water-based serum for visible shine, congestion, dullness and uneven texture.",
     "price": 6.0,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_serum",
@@ -154,7 +154,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwce8a7cdf/Images/products/The%20Ordinary/rdn-niacinamide-10pct-zinc-1pct-30ml.png?sh=800&sm=fit&sw=800",
     "description": "Water-based serum for visible shine, congestion, dullness and uneven texture.",
     "price": 10.8,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_serum",
@@ -184,7 +184,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw67286abd/Images/products/The%20Ordinary/ord-hyaluronic-acid-2pct-B5-30ml-Clr-Acu.png?sh=800&sm=fit&sw=800",
     "description": "Hydrating serum with hyaluronic acid, ceramides and pro-vitamin B5 for hydration and barrier support.",
     "price": 9.9,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_serum",
@@ -213,7 +213,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw67286abd/Images/products/The%20Ordinary/ord-hyaluronic-acid-2pct-B5-30ml-Clr-Acu.png?sh=800&sm=fit&sw=800",
     "description": "Hydrating serum with hyaluronic acid, ceramides and pro-vitamin B5 for hydration and barrier support.",
     "price": 17.5,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_serum",
@@ -242,7 +242,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwc17b2bd6/Images/products/The%20Ordinary/rdn-salicylic-acid-2pct-solution-otc.png?sh=800&sm=fit&sw=800",
     "description": "Exfoliating treatment for acne-prone skin that targets congestion and visible blemishes.",
     "price": 6.7,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_serum",
@@ -271,7 +271,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa689472f/Images/products/The%20Ordinary/FY25-D41247-ORD-Web-Alp-Arb-2pct-30ml-1x1-EN-1.jpg?sh=800&sm=fit&sw=800",
     "description": "Water-based serum designed to target dark spots and uneven skin tone.",
     "price": 11.5,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_serum",
@@ -300,7 +300,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa689472f/Images/products/The%20Ordinary/FY25-D41247-ORD-Web-Alp-Arb-2pct-30ml-1x1-EN-1.jpg?sh=800&sm=fit&sw=800",
     "description": "Water-based serum designed to target dark spots and uneven skin tone.",
     "price": 20.2,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_serum",
@@ -329,7 +329,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw711cec9a/Images/products/The%20Ordinary/rdn-azelaic-acid-suspension-10pct-30ml.png?sh=800&sm=fit&sw=800",
     "description": "Cream-like treatment for uneven tone, texture, dullness and the look of redness.",
     "price": 12.2,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_treatment",
@@ -359,7 +359,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw711cec9a/Images/products/The%20Ordinary/rdn-azelaic-acid-suspension-10pct-30ml.png?sh=800&sm=fit&sw=800",
     "description": "Cream-like treatment for uneven tone, texture, dullness and the look of redness.",
     "price": 28.8,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_treat",
       "type_treatment",
@@ -389,7 +389,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw4cdaf4db/Images/products/The%20Ordinary/rdn-natural-moisturizing-factors-ha-100ml.png?sh=860&sm=fit&sw=860",
     "description": "Surface hydrator designed to support skin hydration and the moisture barrier.",
     "price": 6.7,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_seal",
       "type_moisturizer",
@@ -418,7 +418,7 @@
     "image_link": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw4cdaf4db/Images/products/The%20Ordinary/rdn-natural-moisturizing-factors-ha-100ml.png?sh=860&sm=fit&sw=860",
     "description": "Surface hydrator designed to support skin hydration and the moisture barrier.",
     "price": 12.5,
-    "currency": "USD"
+    "currency": "USD",
     "categories": [
       "step_seal",
       "type_moisturizer",
